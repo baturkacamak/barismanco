@@ -2,7 +2,7 @@
 
 This is memorial web page dedicated to famous Turkish performer Baris Manco who died in Februrary 1, 1999.
 
-HTML code is written right after his dead announced at 2.15AM and web page published on the internet at 6.00AM.
+HTML code has written right after his dead announced at 2.15AM and web page published on the internet at 6.00AM.
 
 Later that following evening web page was announced in couple of national TV news, radio shows and newspapers, eventually, which generated huge traffic.
 
