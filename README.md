@@ -1,21 +1,12 @@
-# Info
+# Description
+This website is a memorial dedicated to the late Turkish performer Baris Manco, who passed away on February 1, 1999. The HTML code for the website was written shortly after the announcement of his death and published on the internet at 6:00 AM. Later that day, the website was featured on several national television news programs, radio shows, and newspapers, leading to a surge in traffic. Several radio stations reached out to request interviews about Baris Manco and web technology. The content on the website was borrowed from multiple sources, which are now unknown. It includes a quote from Manco, mp3 recordings of his songs, a form to request a photo with his signature, and screen captures of television visuals. When visitors access the website, it automatically plays one of his most famous songs, "Gulpembe," as a mid file. This feature was considered a best practice in web development during the 1990s.
 
-This is memorial web page dedicated to famous Turkish performer Baris Manco who died in Februrary 1, 1999.
+# Technical Details
+The HTML on the website is unformatted and unchanged from its original 1999 version. As a result, it contains redundant and obsolete elements. The assets folder includes images used on the website.
 
-HTML code has written right after his dead announced at 2.15AM and web page published on the internet at 6.00AM.
+# Access
+The website can be accessed at the following URL: 
+http://angelfire.com/mb/batistuta/baris.html
 
-Later that following evening web page was announced in couple of national TV news, radio shows and newspapers, eventually, which generated huge traffic.
 
-Several radio stations contacted me to make an interview about Baris Manco and web technologies.
 
-Web page content was borrowed(!) from several different sources which is unknown today. It is containing a quote from Baris Manco, his songs in mp3 format (which was hosted on a FTP server), a form which you can receive his photo with signature(?) and couple of more screen captures of TV visuals.
-When you visited the web page, it has started to play his famous song Gulpembe, as mid file format, automatically which was considered a good practice during 90's web development.
-
-# Technical
-
-HTML is untouched and unformatted as in 1999 version. Therefore you can observe redundant and obsolete HTML.
-Assets include images that used in the web page.
-
-# Live
-
-[http://angelfire.com/mb/batistuta/baris.html]
